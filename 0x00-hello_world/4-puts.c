@@ -1,5 +1,7 @@
 #include <stdio.h>
-
+/*
+ *Learning to print using puts
+ */
 int main(void)
 {
 	/*Initializaing strings*/
