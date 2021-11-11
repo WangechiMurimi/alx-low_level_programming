@@ -2,10 +2,9 @@
 
 int main(void)
 {
-  /*Initializaing strings*/
-  char str1[] = "\"Programming is like building a multilingual puzzle \n";
-  
-  puts(str1);
+	/*Initializaing strings*/
+	char str1[] = "\"Programming is like building a multilingual puzzle \n";
 
-  return (0);
+	puts(str1);
+	return (0);
 }
