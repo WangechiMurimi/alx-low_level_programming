@@ -5,7 +5,7 @@
 /**
  *main -Assigns a random number and prints the
  *last digit
- *Return value is 0
+ *Return: value is 0
  */
 int main(void)
 {
